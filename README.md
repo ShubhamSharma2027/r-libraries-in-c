@@ -20,7 +20,9 @@ basic form operations and understanding the space time complexity in different p
 
 This will execute the library file.
 
-**Please have a look at _Tutorial-1.png_
+![](Tutorial-1.png)
+
+**Please have a look at _the above image_
  in case of any doubt**
  
 ### Execution result may vary according to the system configuration.
