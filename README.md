@@ -30,12 +30,18 @@ The screenshots of the execution results attached holds system configuration as 
 
 ### Time Complexity on Linux ( Ubuntu ) 
 
+* Sorting 100000 Random Numbers Using Quick Sort
+
 ![](Time-Complexity-On-Linux.png)
 
 ### Time Complexity on Windows
 
+* Sorting 100000 Random Numbers Using Quick Sort
+
 ![](Time-Complexity-On-Windows.JPG)
 
 ### Time Complexity on RStudio
+
+* Sorting 50000 Random Numbers Using Quick Sort 
 
 ![](Time-Complexity-On-RStudio.JPG)
