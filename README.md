@@ -28,5 +28,14 @@ The screenshots of the execution results attached holds system configuration as 
 * RAM : 8 GB
 * System Type : 64 bit Operating System
 
-In case of any issue email me at : isharmashubham@outlook.com
+### Time Complexity on Linux ( Ubuntu ) 
 
+![](Time-Complexity-On-Linux.png)
+
+### Time Complexity on Windows
+
+![](Time-Complexity-On-Windows.JPG)
+
+### Time Complexity on RStudio
+
+![](Time-Complexity-On-RStudio.JPG)
