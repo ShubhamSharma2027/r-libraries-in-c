@@ -42,6 +42,6 @@ The screenshots of the execution results attached holds system configuration as 
 
 ### Time Complexity on RStudio
 
-* Sorting 50000 Random Numbers Using Quick Sort 
+* Sorting 50000 Random Numbers Using Selection Sort 
 
 ![](Time-Complexity-On-RStudio.JPG)
